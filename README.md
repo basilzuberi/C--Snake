@@ -1,6 +1,6 @@
 # C--Snake
 Snake game using OOP made in C# using Visual Studio.
-##############################################################################
+###############################################################################################
 -Made using PictureBox and C# built-in graphics functions.
 -Click the "Start" button to start game.
 -Use WASD to move around.
@@ -10,5 +10,5 @@ Snake game using OOP made in C# using Visual Studio.
 -File>Save will save your current Highscore as a .snk Binary file and sign it. 
 -File>Load will only load .snk files that are signed by the game.
 -Change speed using "Speed" radiobuttons in Miscellanious Options.
-##############################################################################
+###############################################################################################
 Snake Object is called "Nagini" in code, named after the snake in Harry Potter
