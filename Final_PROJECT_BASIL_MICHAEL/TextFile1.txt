@@ -1,0 +1,7 @@
+﻿SNAKE GAME:
+
+-High Score gets saved WITH USER'S NAME!
+-Curent Score is seperate, if passes highscore and player loses, asks for name and saves highscore.
+-food should spawn randomly? (or in certain place away from snake?)
+-if snake hits its own tail, player loses.
+-if player hits wall, player loses.=
