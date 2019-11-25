@@ -453,11 +453,6 @@ namespace Final_PROJECT_BASIL_MICHAEL
             }
         }
 
-        private void Form1_Load(object sender, EventArgs e)
-        {
-
-        }
-
         private void btnStop_Click(object sender, EventArgs e)
         {
             mySnake.StartGame();
@@ -488,10 +483,6 @@ namespace Final_PROJECT_BASIL_MICHAEL
             food.GenerateFood();
         }
 
-        private void pbBoard_Click(object sender, EventArgs e)
-        {
-
-        }
 
         private void rbSlow_CheckedChanged(object sender, EventArgs e)
         {
@@ -503,12 +494,6 @@ namespace Final_PROJECT_BASIL_MICHAEL
             GameTimer.Interval = 100;
         }
 
-
-
-        private void groupBox1_Enter(object sender, EventArgs e)
-        {
-
-        }
 
         private void rbFast_CheckedChanged_1(object sender, EventArgs e)
         {
